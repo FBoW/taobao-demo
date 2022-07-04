@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "460902",
+      "name": "照相",
+      "font_class": "552cc3b3b9fae",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "2466307",
+      "name": "左右箭头",
+      "font_class": "zuoyoujiantou-copy-copy-copy-copy",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "3102825",
+      "name": "下箭头",
+      "font_class": "icon",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "3285291",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "5564078",
+      "name": "购物车",
+      "font_class": "gouwuche-copy",
+      "unicode": "e508",
+      "unicode_decimal": 58632
+    },
+    {
+      "icon_id": "9201987",
+      "name": "左右箭头",
+      "font_class": "col-left",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "10458998",
+      "name": "收藏夹",
+      "font_class": "shoucangjia",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "13258508",
+      "name": "下箭头",
+      "font_class": "arrow",
+      "unicode": "e50d",
+      "unicode_decimal": 58637
+    },
+    {
+      "icon_id": "16667291",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "16906233",
+      "name": "淘宝",
+      "font_class": "taobao",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "19874850",
+      "name": "淘公仔",
+      "font_class": "taogongzi1",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    }
+  ]
+}
